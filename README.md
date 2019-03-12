@@ -5,5 +5,3 @@
 ### Full Width
 ![alt tag](https://raw.githubusercontent.com/annapolar/Responsive_Steps/master/Demo/Demo_1.png)
 
-### Mobile View
-![alt tag](https://raw.githubusercontent.com/annapolar/Responsive_Steps/master/Demo/Demo_2.png)
